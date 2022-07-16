@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine learning System Design: An Overview](https://medium.com/@ashwinkumarjs/machine-learning-system-design-an-overview-3c2344dd2369?source=rss-214305a3bc12------2)
+- [Neural Architecture Search](https://medium.com/@ashwinkumarjs/neural-architecture-search-df415d451fed?source=rss-214305a3bc12------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
